@@ -24,8 +24,7 @@ export default {
     this.$emit('addTodo', this.newTodo);
     this.newTodo = '';
   }
-}
-  }}
+}}}
 
 </script>
 
